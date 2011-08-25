@@ -2,7 +2,7 @@
  *  backlinked priority queue
  *  Copyright (c) 2011
  *      Honghua (Howard) Li <howard.hhli@gmail.com>
- *      Oliver Matias van Kaick <oliver.kaick@gmail.com>
+ *      Oliver van Kaick <ovankaic@gmail.com>
  *
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
